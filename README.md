@@ -1,6 +1,6 @@
 ## A Nextjs 13 web app that returns a list of related Wiki search results by entering keywords.
 
-Utilizing client and server components, Tailwind CSS.
+Utilizing client and server components, TypeScript & Tailwind CSS.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
